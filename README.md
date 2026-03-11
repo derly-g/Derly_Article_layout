@@ -2,18 +2,22 @@
 <header>
   <h1>Article Title</h1>
   <h2>Subtitle or Section Heading</h2>
+<link rel="stylesheet" href="style.css">
 </header>
 <main>
   <section>
     <!-- 2–3 paragraphs of text -->
     <p>First paragraph of your article.</p>
     <p>Second paragraph with more details.</p>
+<link rel="stylesheet" href="style.css">
   </section>
   <figure>
     <img src="image.jpg" alt="Descriptive alt text">
     <figcaption>Caption for the image</figcaption>
+<link rel="stylesheet" href="style.css">
   </figure>
 </main>
 <footer>
   <p>By Author Name</p>
+<link rel="stylesheet" href="style.css">
 </footer>   
