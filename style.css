@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Datatype:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Datatype:wght@100..900&family=Fjalla+One&display=swap');
 
 h1, h2 {
-  font-family: "Datatype", monospace;
+ font-family: "Fjalla One", sans-serif;
 }
 body {
   font-family: 'Open Sans', sans-serif;
