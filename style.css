@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Datatype:wght@100..900&family=Fjalla+One&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&family=Fjalla+One&display=swap');
+
 h1, h2 {
  font-family: "Fjalla One", sans-serif;
 }
 body {
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
 }   
 
 body {
