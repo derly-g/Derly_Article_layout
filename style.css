@@ -8,7 +8,10 @@ h1, h2 {
 body {
   font-family: "Darker Grotesque", sans-serif;
 }   
-
+img {
+      weight
+      height: 200px;
+}
 body {
   font-size: 1rem;
   line-height: 1.6;
