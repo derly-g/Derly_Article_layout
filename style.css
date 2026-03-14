@@ -10,8 +10,21 @@ body {
 }   
 img {
       weight
-      height: 200px;
-}
+      height: 200px; /* Sets the height of the box */
+
+      border: 0px solid red; /* Adds a solid border */
+
+      padding: 40px; /* Adds space between content and border */
+
+      margin: 100px; /* Adds space outside the border, separating it from other elements */
+  position: fixed;
+ left: 1000px;
+  top: 100px;
+  width: 15%;
+      background-color: ; /* Adds a background color */
+
+      border-radius: 0px; /* Rounds the corners */
+} 
 body {
   font-size: 1rem;
   line-height: 1.6;
